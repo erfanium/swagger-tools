@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Various tools for using and integrating with Swagger.",
   "main": "index.js",
+  "types": "index.d.ts",
   "private": false,
   "scripts": {
     "test": "gulp",
